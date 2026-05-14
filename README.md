@@ -100,5 +100,5 @@ FastAPI automatically generates interactive API documentation. Once the server i
 ## 👨‍💻 Author
 
 **Pranav Sagar**
-- [LinkedIn](https://www.linkedin.com/in/pranav-sagar)
+- [LinkedIn](https://www.linkedin.com/in/pranav-sagar-fsd?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Full Stack AI Engineer & Robotics Researcher
