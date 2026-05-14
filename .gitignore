@@ -1,0 +1,18 @@
+# Python Generated Files
+*.pyc
+__pycache__/
+*.egg-info/
+*.log
+*.swp
+*.pyo
+*.pyd
+.venv
+
+# Environment Secrets
+.env
+.env.example
+.env.example.local
+
+# Test Files
+test/
+tests/

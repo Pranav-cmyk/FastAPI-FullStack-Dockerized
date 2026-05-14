@@ -1,0 +1,15 @@
+services:
+  web:
+    build:
+      context: .
+    ports:
+      - 8000:8000
+    environment:
+      - SQL_ALCHEMY_URL=sqlite:///./sql_app.db
+      - SECRET_KEY=ddb9472204f4b2f850ddcbe2ffb8282e
+      - ALGORITHM=HS256
+      - ACCESS_TOKEN_EXPIRE_IN=30
+    volumes:
+      - .:/app
+      - /app/.venv
+    
